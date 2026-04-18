@@ -1,0 +1,139 @@
+customer_id,name,email,company,signup_date
+CUST-1000, Emily Smith,Emily.Smith@Outlook.Com,NextWave Retail,2024-04-02
+CUST-1001, Maya Smith,MAYA.SMITH@GMAIL.COM,NORTHSTAR LOGISTICS,2024-03-23
+CUST-1002,  Chris Jackson  ,CHRIS.JACKSON@BIZMAIL.COM,SignalWorks ,2024-03-27
+CUST-1003, Anna Jackson,,Greenline Foods ,2024-07-23
+CUST-1004,MICHAEL BROWN,michael.brown@company.com ,BluePeak Media,"Dec 05, 2024"
+CUST-1005,Emily Brown,EMILY.BROWN@MAIL.COM,BluePeak Media ,23/08/2024
+CUST-1006, Michael Smith,michael.smith@company.com,  Axis Health  ,06-13-2023
+CUST-1007,Ethan Thomas , ethan.thomas@outlook.com,Cedarpoint Tech,01-28-2025
+CUST-1008, Michael Anderson,  michael.anderson@mail.com  ,  UrbanGrid  ,05-16-2024
+CUST-1009,Jessica Thomas,jessica.thomas@gmail.com ,  CedarPoint Tech  ,04-14-2024
+CUST-1010,Michael Patel,  michael.patel@company.com  ,  BrightPath Consulting  ,"Mar 11, 2024"
+CUST-1011,DAVID JOHNSON,david.johnson@outlook.com ,Urbangrid,"Feb 23, 2026"
+CUST-1012,  Kevin Williams  ,kevin.williams@outlook.com,Axis Health,2025-11-09
+CUST-1013,  David Thomas  ,  david.thomas@bizmail.com  ,URBANGRID,"May 11, 2023"
+CUST-1014,Daniel Wilson ,Daniel.Wilson@Gmail.Com,Northstar Logistics ,2026-01-04
+CUST-1015,Sophia Brown,Sophia.Brown@Bizmail.Com,UrbanGrid ,07/01/2023
+CUST-1016, Emily Harris,emily.harris@mail.com , NextWave Retail,2024-02-12
+CUST-1017,Ryan Davis , ryan.davis@gmail.com,Northstar Logistics,13/01/2025
+CUST-1018, Michael Tan, michael.tan@gmail.com,Novacore,"Dec 26, 2025"
+CUST-1019, Anna Johnson,ANNA.JOHNSON@MAIL.COM,Signalworks,16/05/2025
+CUST-1020,  Sophia Brown  ,sophia.brown@bizmail.com, CedarPoint Tech,25/11/2025
+CUST-1021, Michael Williams,MICHAEL.WILLIAMS@MAIL.COM, Northstar Logistics,2026-02-08
+CUST-1022,Michael Jackson,michael.jackson@outlook.com ,Northstar Logistics,19/05/2023
+CUST-1023, Daniel Thomas,Daniel.Thomas@Outlook.Com,NOVACORE,"Jan 09, 2026"
+CUST-1024,Jessica White,jessica.white@bizmail.com,Novacore,"Jan 25, 2024"
+CUST-1025,Olivia Brown,Olivia.Brown@Bizmail.Com,Greenline Foods,2023-04-21
+CUST-1026, Sarah Brown, sarah.brown@gmail.com,CEDARPOINT TECH,"May 24, 2024"
+CUST-1027, David Brown,david.brown@company.com,  UrbanGrid  ,2025-08-05
+CUST-1028, Sarah Thomas, sarah.thomas@gmail.com,  SignalWorks  ,"Jul 11, 2023"
+CUST-1029,  Nina Patel  ,nina.patel@gmail.com,  Greenline Foods  ,12-04-2023
+CUST-1030, Ethan Johnson, ethan.johnson@mail.com,Greenline Foods ,23/09/2025
+CUST-1031,Sarah Anderson,sarah.anderson@gmail.com,SIGNALWORKS,"Oct 04, 2024"
+CUST-1032,Anna Smith,ANNA.SMITH@GMAIL.COM,SignalWorks,16/01/2024
+CUST-1033,KEVIN TAN,kevin.tan@outlook.com,BRIGHTPATH CONSULTING,2026-03-31
+CUST-1034,Maya Thomas ,maya.thomas@mail.com , BrightPath Consulting,12-06-2025
+CUST-1035,  Jessica Johnson  ,jessica.johnson@outlook.com ,Greenline Foods,2024-09-06
+CUST-1036,ETHAN ANDERSON, ethan.anderson@gmail.com,BRIGHTPATH CONSULTING,05-31-2023
+CUST-1037,David Williams ,,  BluePeak Media  ,01-26-2025
+CUST-1038, John Thomas,john.thomas@company.com ,SignalWorks,2023-08-01
+CUST-1039,David Johnson,david.johnson@mail.com , NextWave Retail,
+CUST-1040,Nina Johnson ,nina.johnson@gmail.com,Northstar Logistics,05-17-2025
+CUST-1041,DAVID THOMAS,David.Thomas@Outlook.Com,  NextWave Retail  ,
+CUST-1042,Emily Tan ,EMILY.TAN@MAIL.COM,URBANGRID,15/03/2023
+CUST-1043,Maya Lee,maya.lee@company.com ,,16/01/2025
+CUST-1044, Emily Williams, emily.williams@bizmail.com, SignalWorks,"Nov 13, 2023"
+CUST-1045,John Lee ,broken-email,Cedarpoint Tech,2024-05-23
+CUST-1046, Kevin Harris,  kevin.harris@bizmail.com  ,Northstar Logistics ,03-31-2024
+CUST-1047,Jessica Patel ,jessica.patel@outlook.com ,Northstar Logistics,03-27-2025
+CUST-1048,Olivia Thomas ,olivia.thomas@bizmail.com,SignalWorks,01-03-2026
+CUST-1049,ANNA ANDERSON,  anna.anderson@gmail.com  ,NextWave Retail ,08-11-2023
+CUST-1050,MAYA ANDERSON, maya.anderson@gmail.com,SignalWorks ,2025-02-27
+CUST-1051,Maya Smith ,  maya.smith@mail.com  ,SignalWorks,02-08-2024
+CUST-1052,Ryan Thomas ,Ryan.Thomas@Company.Com,  BluePeak Media  ,11-04-2025
+CUST-1053, Kevin Jackson,  kevin.jackson@mail.com  ,Nextwave Retail,"Sep 18, 2023"
+CUST-1054,ANNA ANDERSON,anna.anderson@company.com,BrightPath Consulting ,04-11-2025
+CUST-1055,  Chris Brown  ,  chris.brown@mail.com  ,  BrightPath Consulting  ,21/10/2024
+CUST-1056,NINA WHITE,Nina.White@Gmail.Com,Urbangrid,08-04-2024
+CUST-1057, Michael Harris, michael.harris@company.com,Axis Health,2024-04-05
+CUST-1058,  Jessica Davis  ,Jessica.Davis@Gmail.Com,BRIGHTPATH CONSULTING,21/07/2025
+CUST-1059,Kevin Davis,Kevin.Davis@Outlook.Com,Greenline Foods,2023-10-30
+CUST-1060,Maya Patel,MAYA.PATEL@MAIL.COM, UrbanGrid,2025-08-09
+CUST-1061,ETHAN LEE,ethan.lee@mail.com ,  NovaCore  ,"Feb 18, 2026"
+CUST-1062, Ethan Lee,Ethan.Lee@Bizmail.Com,NovaCore ,"Jun 14, 2024"
+CUST-1063, Jessica Johnson,jessica.johnson@gmail.com ,NovaCore ,08-08-2024
+CUST-1064,Michael Lee, michael.lee@outlook.com,Urbangrid,23/02/2025
+CUST-1065,  Michael Brown  ,  michael.brown@company.com  ,Greenline Foods,
+CUST-1066,  Maya Brown  ,  maya.brown@gmail.com  ,BrightPath Consulting,03-25-2026
+CUST-1067,Sophia White,Sophia.White@Bizmail.Com,GREENLINE FOODS,07/01/2026
+CUST-1068,Nina Patel,  nina.patel@bizmail.com  ,NextWave Retail ,"Sep 21, 2025"
+CUST-1069,Anna Harris,  anna.harris@outlook.com  ,NOVACORE,2025-12-29
+CUST-1070, Michael Thomas,michael.thomas@outlook.com,Greenline Foods ,"Aug 03, 2025"
+CUST-1071,  Ryan Patel  ,ryan.patel@company.com ,  NovaCore  ,11-22-2024
+CUST-1072,Michael Davis , michael.davis@mail.com,Northstar Logistics,2023-04-17
+CUST-1073,Sarah White,SARAH.WHITE@OUTLOOK.COM, Northstar Logistics,13/02/2024
+CUST-1074,  David Davis  ,@nouser.com,BluePeak Media ,03-22-2024
+CUST-1075,Anna Anderson ,anna.anderson@gmail.com,BRIGHTPATH CONSULTING,2023-12-02
+CUST-1076,Sophia Anderson,SOPHIA.ANDERSON@BIZMAIL.COM,Greenline Foods,11/02/2024
+CUST-1077,EMILY JACKSON,emily.jackson@mail.com,NextWave Retail ,"Sep 05, 2023"
+CUST-1078,  Olivia Tan  ,  olivia.tan@company.com  ,SignalWorks,
+CUST-1079, Olivia Thomas,Olivia.Thomas@Outlook.Com,NOVACORE,06-10-2025
+CUST-1080,Nina Davis , nina.davis@mail.com,Greenline Foods,07-03-2024
+CUST-1081,Ethan Patel ,ethan.patel@mail.com,,02-15-2025
+CUST-1082,Anna Davis ,anna.davis@company.com ,AXIS HEALTH,06-13-2024
+CUST-1083,John Wilson,  john.wilson@gmail.com  ,  Axis Health  ,09/05/2024
+CUST-1084,Nina Thomas,nina.thomas@bizmail.com , NovaCore,"Feb 05, 2023"
+CUST-1085,JESSICA JOHNSON,JESSICA.JOHNSON@COMPANY.COM,BrightPath Consulting ,"Aug 27, 2025"
+CUST-1086,Ryan Williams , ryan.williams@company.com,NovaCore,19/09/2024
+CUST-1087, Ryan Tan,Ryan.Tan@Outlook.Com,  SignalWorks  ,01-28-2024
+CUST-1088,Sophia Tan , sophia.tan@company.com,Axis Health ,2024-04-10
+CUST-1089,David Johnson ,john@@mail, Northstar Logistics,"Feb 07, 2026"
+CUST-1090,  Emily Harris  ,  emily.harris@mail.com  ,  Northstar Logistics  ,08-05-2024
+CUST-1091,Anna Smith,  anna.smith@bizmail.com  ,  NextWave Retail  ,2023-08-22
+CUST-1092,Sarah Lee, sarah.lee@mail.com,UrbanGrid,"Sep 14, 2024"
+CUST-1093,  Jessica White  ,jessica.white@bizmail.com ,SIGNALWORKS,"Jul 11, 2025"
+CUST-1094, Sophia Anderson,Sophia.Anderson@Gmail.Com, BrightPath Consulting,07-23-2023
+CUST-1095,Michael Lee, michael.lee@outlook.com,Axis Health,"Feb 04, 2026"
+CUST-1096,Ethan Jackson, ethan.jackson@bizmail.com,BrightPath Consulting ,08-19-2024
+CUST-1097,  Ethan Tan  ,missingdomain@,AXIS HEALTH,10/02/2024
+CUST-1098, David Johnson,david.johnson@gmail.com ,URBANGRID,05-03-2023
+CUST-1099,Ethan Tan ,ETHAN.TAN@COMPANY.COM,NOVACORE,"Apr 04, 2025"
+CUST-1100,Ethan Tan,ethan.tan@gmail.com ,BRIGHTPATH CONSULTING,06-03-2025
+CUST-1101,John Tan,john.tan@mail.com ,AXIS HEALTH,2023-02-12
+CUST-1102, Anna Davis,ANNA.DAVIS@BIZMAIL.COM,  SignalWorks  ,"Jul 23, 2024"
+CUST-1103,Michael Davis ,Michael.Davis@Bizmail.Com,CedarPoint Tech,13/11/2024
+CUST-1104,RYAN BROWN,ryan.brown@company.com,,2025-03-31
+CUST-1105,RYAN JOHNSON,ryan.johnson@gmail.com,Cedarpoint Tech,"Apr 07, 2025"
+CUST-1106,MAYA SMITH,  maya.smith@mail.com  ,Axis Health,"Jan 10, 2025"
+CUST-1107,Sarah Patel ,  sarah.patel@mail.com  ,Nextwave Retail,"Sep 26, 2023"
+CUST-1108,Emily Smith ,EMILY.SMITH@OUTLOOK.COM,BrightPath Consulting,"Nov 21, 2023"
+CUST-1109,Michael Patel, michael.patel@bizmail.com,  BluePeak Media  ,08-29-2023
+CUST-1110,  Daniel Brown  ,DANIEL.BROWN@BIZMAIL.COM, NovaCore,"May 14, 2024"
+CUST-1111,Chris Anderson ,  chris.anderson@outlook.com  ,SignalWorks ,05-23-2023
+CUST-1112, John Johnson,  john.johnson@mail.com  ,NEXTWAVE RETAIL,"Sep 29, 2025"
+CUST-1113,  Olivia Williams  ,olivia.williams@mail.com , SignalWorks,11/02/2025
+CUST-1114,Kevin Patel,  kevin.patel@gmail.com  ,Greenline Foods,"Oct 13, 2024"
+CUST-1115, Kevin Thomas,KEVIN.THOMAS@BIZMAIL.COM,URBANGRID,03-17-2023
+CUST-1116,  Emily Harris  ,,Novacore,13/12/2025
+CUST-1117,Maya Harris ,maya.harris@gmail.com ,URBANGRID,"Aug 19, 2025"
+CUST-1118,Michael Harris ,Michael.Harris@Mail.Com,Cedarpoint Tech,"Feb 17, 2025"
+CUST-1119, Sarah Anderson,Sarah.Anderson@Outlook.Com,BluePeak Media,"Aug 11, 2024"
+CUST-1044, Emily Williams, emily.williams@bizmail.com, SignalWorks,"Nov 13, 2023"
+CUST-1047,Jessica Patel ,jessica.patel@outlook.com ,Northstar Logistics,03-27-2025
+CUST-1004,MICHAEL BROWN,michael.brown@company.com ,BluePeak Media,"Dec 05, 2024"
+CUST-1055,  Chris Brown  ,  chris.brown@mail.com  ,  BrightPath Consulting  ,21/10/2024
+CUST-1026, Sarah Brown, sarah.brown@gmail.com,CEDARPOINT TECH,"May 24, 2024"
+CUST-1064,Michael Lee, michael.lee@outlook.com,Urbangrid,23/02/2025
+CUST-1073,Sarah White,SARAH.WHITE@OUTLOOK.COM, Northstar Logistics,13/02/2024
+CUST-1010,Michael Patel,  michael.patel@company.com  ,  BrightPath Consulting  ,"Mar 11, 2024"
+CUST-X0,Ethan Jackson, ethan.jackson@bizmail.com ,BrightPath Consulting ,08-19-2024
+CUST-X1,Maya Lee,maya.lee@company.com , Northstar Logistics,16/01/2025
+CUST-X2,  Ryan Patel  ,ryan.patel@company.com  ,  NovaCore  ,11-22-2024
+CUST-X3,Sophia Brown,Sophia.Brown@Bizmail.Com ,UrbanGrid ,07/01/2023
+CUST-X4,    Chris Jackson    ,CHRIS.JACKSON@BIZMAIL.COM ,SignalWorks ,2024-03-27
+CUST-X5, EMILY JACKSON,  emily.jackson@mail.com  ,NextWave Retail ,"Sep 05, 2023"
+CUST-X6, Jessica Johnson, jessica.johnson@gmail.com ,NovaCore ,08-08-2024
+CUST-X7,David Williams  ,  david.williams@outlook.com,  BluePeak Media  ,01-26-2025
+CUST-X8,  Olivia Tan  ,notanemail,SignalWorks,"Jan 26, 2023"
+CUST-X9, John Thomas,  john.thomas@company.com   ,SignalWorks,2023-08-01
