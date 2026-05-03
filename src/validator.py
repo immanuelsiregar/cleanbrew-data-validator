@@ -33,3 +33,48 @@ def invalid_date_rows(df, date_col="signup_date"):
     parsed = pd.to_datetime(df[date_col], errors="coerce")
     mask = df[date_col].notna() & parsed.isna()
     return df[mask].copy()
+
+
+TRANSACTION_REQUIRED_COLUMNS = [
+    "transaction_id",
+    "date",
+    "customer_id",
+    "product",
+    "category",
+    "amount",
+]
+
+
+def check_required_columns(df, required_columns=None):
+    if required_columns is None:
+        required_columns = REQUIRED_COLUMNS
+
+    missing = [col for col in required_columns if col not in df.columns]
+    return missing
+
+
+def invalid_amount_rows(df, amount_col="amount"):
+    if amount_col not in df.columns:
+        return pd.DataFrame(columns=df.columns)
+
+    parsed = pd.to_numeric(df[amount_col], errors="coerce")
+    mask = df[amount_col].notna() & parsed.isna()
+    return df[mask].copy()
+
+
+def negative_amount_rows(df, amount_col="amount"):
+    if amount_col not in df.columns:
+        return pd.DataFrame(columns=df.columns)
+
+    parsed = pd.to_numeric(df[amount_col], errors="coerce")
+    mask = parsed < 0
+    return df[mask].copy()
+
+
+def invalid_transaction_date_rows(df, date_col="date"):
+    if date_col not in df.columns:
+        return pd.DataFrame(columns=df.columns)
+
+    parsed = pd.to_datetime(df[date_col], errors="coerce")
+    mask = df[date_col].notna() & parsed.isna()
+    return df[mask].copy()

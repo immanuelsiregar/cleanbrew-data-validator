@@ -19,3 +19,9 @@ def duplicate_entities(df, key_columns):
 
 def drop_exact_duplicates(df):
     return df.drop_duplicates().copy()
+
+def duplicate_keys(df, key_col):
+    if key_col not in df.columns:
+        return pd.DataFrame(columns=df.columns)
+
+    return df[df.duplicated(subset=[key_col], keep=False)].copy()
